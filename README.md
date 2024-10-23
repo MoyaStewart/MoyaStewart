@@ -1,4 +1,4 @@
-<h1>Hi, I'm Moya, an <a href="https://linkedin.com/in/Moya">IT Professional</a>☺</h1>
+<h1>Hi, I'm Moya, an <a href="https://www.linkedin.com/in/moya-stewart-46906b331">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
